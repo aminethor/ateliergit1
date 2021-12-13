@@ -1,0 +1,5 @@
+hjk Humidité Cherry Non_Defectueux 15 12 2019 3400 39
+hh Température Extech Non_Defectueux 14 10 2021 1250 30
+452 Humidité Cherry Non_Defectueux 15 12 2021 1425 20
+yyy Humidité Cherry Non_Defectueux 8 10 2021 3000 40
+fr Température Extech Defectueux 9 9 2021 3200 12
